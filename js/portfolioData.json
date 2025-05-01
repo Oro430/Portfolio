@@ -1,0 +1,115 @@
+{
+    "hero": {
+        "name": "Abdella Aman",
+        "title": "Computer Science and Engineering Student",
+        "bio": "I am a passionate computer science student with a keen interest in software development and data science. I love to learn new technologies and apply them to solve real-world problems.",
+        "image": "images/profile.jpg",
+        "social": [
+            { "icon": "fab fa-github", "url": "https://github.com/Oro430" },
+            { "icon": "fab fa-linkedin", "url": "#" }
+        ]
+    },
+    
+    "projects": [
+        {
+            "title": "Portfolio Website",
+            "description": "Developed a personal portfolio website to showcase my projects and skills.",
+            "image": "images/portfolio.jpg",
+            "tech": ["HTML", "CSS", "JavaScript"],
+            "links": [
+                { "icon": "fas fa-external-link-alt", "text": "GitHub", "url": "https://github.com/Oro430/Portfolio" },
+                { "icon": "fas fa-external-link-alt", "text": "Live Demo", "url": "https://oro430.github.io/" }
+            ]
+        }         
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science and Engineering",
+            "institution": "Adama Science and Technology University",
+            "date": "2020 - 2024",
+            "description": "I am currently pursuing a degree in Computer Science and Engineering, where I am learning about software development, data structures, algorithms, and computer networks."
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Python for Everybody",
+            "institution": "Coursera",
+            "date": "2023",
+            "description": "Completed a specialization in Python programming, focusing on data structures, web scraping, and data analysis."
+        },
+        {
+            "title": "Full Stack Web Development",
+            "institution": "Udacity",
+            "date": "2023",
+            "description": "Completed a nanodegree program in full stack web development, covering front-end and back-end technologies."
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Top Performer in Data Structures Course",
+            "date": "2023",
+            "description": "Achieved the highest grade in the data structures course, demonstrating strong problem-solving skills."
+        },
+        {
+            "title": "Hackathon Winner",
+            "date": "2023",
+            "description": "Won first place in a university hackathon, developing a web application that helps students manage their study schedules."
+        }
+    ],
+    "volunteer": [
+        {
+            "title": "Tech Mentor",
+            "organization": "Adama Tech Community",
+            "date": "2023 - Present",
+            "description": "Mentoring high school students in programming and computer science concepts, helping them prepare for tech careers."
+        },
+        {
+            "title": "Community Cleanup Volunteer",
+            "organization": "Adama Environmental Group",
+            "date": "2022",
+            "description": "Participated in community cleanup events to promote environmental awareness and sustainability."
+        }
+    ],
+    "languages": [
+        { "name": "Amharic", "level": "Native" },
+        { "name": "English", "level": "Fluent" },
+        { "name": "Oromiffa", "level": "Fluent" }
+    ],
+    "hobbies": [
+        { "name": "Reading", "description": "I enjoy reading books on technology, science fiction, and personal development." },
+        { "name": "Traveling", "description": "I love exploring new places and experiencing different cultures." },
+        { "name": "Gaming", "description": "I am an avid gamer and enjoy playing strategy and adventure games." }
+    ],
+    "interests": [
+        { "name": "Artificial Intelligence", "description": "I am fascinated by AI and its potential to transform industries." },
+        { "name": "Web Development", "description": "I enjoy building web applications and learning about new web technologies." },
+        { "name": "Data Science", "description": "I am interested in data analysis and machine learning." }
+    ],         
+    "skills": {
+        "languages": [
+            { "name": "HTML", "level": "90%" },
+            { "name": "Python", "level": "80%" }
+        ],
+        "frameworks": [
+            { "name": "React", "level": "85%" },
+            { "name": "Django", "level": "70%" }
+        ]
+    },
+    "experience": [
+        {
+            "title": "NETWORKING",
+            "company": "COMMERCIAL BANK OF ETHIOPIA ADAMA DISTRICT", 
+            "date": "AUG-2024 - SEB-2015-",
+            "description": "I am a networking intern at the Commercial Bank of Ethiopia, where I assist in maintaining and troubleshooting network systems. I have gained hands-on experience in configuring routers and switches, as well as monitoring network performance."
+        }
+    ],
+    "contact": {
+        "email": "Abdioro@proton.me",
+        "phone": "+251 954 242 722",
+        "location": "Adama, Ethiopia",
+        "social": [
+            { "icon": "fab fa-github", "url": "https://github.com/Oro430" },
+            { "icon": "fab fa-linkedin", "url": "#" }
+        ]
+    }
+}
